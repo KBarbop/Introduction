@@ -19,7 +19,7 @@ export default function AuthInputs() {
 
   const emailNotValid = submitted && !enteredEmail.includes('@');
   const passwordNotValid = submitted && enteredPassword.trim().length < 6;
-
+///
   return (
     <div id="auth-inputs">
       <div className="controls">
