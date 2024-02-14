@@ -1,0 +1,1 @@
+Core Concepts of React.js such as creation and using components,configuring them with props,spread operators,object destructuring,children prop. Furthermore,recieve and forward functions between components as also as the use of special hook useState. Last but not least, output list of data dynamically through mapping.
